@@ -2,7 +2,16 @@
   "name": "trace-logos",
   "version": "0.1.0",
   "description": "Find and download brand logos (SVG/PNG) from the Trace Logo's catalog: CLI and Node.js API. Zero dependencies.",
-  "keywords": ["logo", "logos", "svg", "png", "brand", "icons", "cli", "russian-brands"],
+  "keywords": [
+    "logo",
+    "logos",
+    "svg",
+    "png",
+    "brand",
+    "icons",
+    "cli",
+    "russian-brands"
+  ],
   "license": "MIT",
   "homepage": "https://trace-logos.ru/",
   "repository": {
@@ -15,7 +24,7 @@
   },
   "type": "module",
   "bin": {
-    "trace-logos": "./dist/cli.js"
+    "trace-logos": "dist/cli.js"
   },
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
