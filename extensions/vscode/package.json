@@ -1,0 +1,136 @@
+{
+  "name": "trace-logos",
+  "displayName": "Trace Logos",
+  "description": "Search brand logos (SVG/PNG) from the Trace Logo's catalog (https://trace-logos.ru/) and insert links or download files right from the editor.",
+  "version": "0.1.0",
+  "publisher": "trace-logos",
+  "license": "MIT",
+  "icon": "media/icon.png",
+  "homepage": "https://trace-logos.ru/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturablyazov5-glitch/trace-logos-integrations.git",
+    "directory": "extensions/vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/arturablyazov5-glitch/trace-logos-integrations/issues"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "logo",
+    "logos",
+    "brand",
+    "svg",
+    "png",
+    "icons",
+    "trace logos",
+    "логотипы"
+  ],
+  "galleryBanner": {
+    "color": "#16151A",
+    "theme": "dark"
+  },
+  "main": "./dist/extension.js",
+  "activationEvents": [],
+  "contributes": {
+    "commands": [
+      {
+        "command": "traceLogos.search",
+        "title": "Search",
+        "category": "Trace Logos",
+        "icon": "$(search)"
+      },
+      {
+        "command": "traceLogos.downloadHere",
+        "title": "Download here",
+        "category": "Trace Logos"
+      },
+      {
+        "command": "traceLogos.refreshCatalog",
+        "title": "Refresh catalog",
+        "category": "Trace Logos"
+      }
+    ],
+    "menus": {
+      "commandPalette": [
+        {
+          "command": "traceLogos.downloadHere",
+          "when": "false"
+        }
+      ],
+      "editor/title": [
+        {
+          "command": "traceLogos.search",
+          "group": "navigation@99",
+          "when": "config.traceLogos.showEditorTitleButton"
+        }
+      ],
+      "editor/context": [
+        {
+          "command": "traceLogos.search",
+          "group": "z_traceLogos@1"
+        }
+      ],
+      "explorer/context": [
+        {
+          "command": "traceLogos.search",
+          "group": "z_traceLogos@1",
+          "when": "explorerResourceIsFolder"
+        },
+        {
+          "command": "traceLogos.downloadHere",
+          "group": "z_traceLogos@2",
+          "when": "explorerResourceIsFolder"
+        }
+      ]
+    },
+    "configuration": {
+      "title": "Trace Logos",
+      "properties": {
+        "traceLogos.downloadFolder": {
+          "type": "string",
+          "default": "assets/logos",
+          "markdownDescription": "Folder for downloaded logos, relative to the first workspace folder (or an absolute path). Without an open workspace you are asked to pick a folder."
+        },
+        "traceLogos.catalogUrl": {
+          "type": "string",
+          "default": "https://trace-logos.ru/logos.json",
+          "markdownDescription": "Catalog URL. **For debugging only** — keep the default. Files are only ever downloaded from `https://trace-logos.ru/`."
+        },
+        "traceLogos.cacheTtlMinutes": {
+          "type": "number",
+          "default": 60,
+          "minimum": 1,
+          "maximum": 10080,
+          "markdownDescription": "How long the cached catalog is used without asking the server (minutes). After that it is revalidated; if the network is down the cached copy is still used."
+        },
+        "traceLogos.showEditorTitleButton": {
+          "type": "boolean",
+          "default": true,
+          "description": "Show the Trace Logos search button in the editor title bar."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node scripts/build.mjs --test && node --test \"test/*.test.cjs\"",
+    "package": "npm run build && vsce package --no-dependencies",
+    "test:integration": "npm run build && node test/integration/run.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "@types/vscode": "~1.85.0",
+    "@vscode/test-electron": "^3.1.0",
+    "@vscode/vsce": "^4.0.0",
+    "esbuild": "^0.25.12",
+    "ovsx": "^1.2.0",
+    "typescript": "^5.9.3"
+  }
+}

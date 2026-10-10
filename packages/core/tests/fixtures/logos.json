@@ -1,0 +1,1153 @@
+{
+ "total": 35,
+ "totalIncludingComingSoon": 38,
+ "updated": "2026-10-10",
+ "logos": [
+  {
+   "name": "Telegram",
+   "tags": "телеграм телега тг tg telegram.org",
+   "url": "https://trace-logos.ru/logos/social/telegram/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/telegram.png",
+   "ecosystem": null,
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Telegram в SVG и PNG бесплатно. Иконка и горизонтальные версии. Мессенджер Павла Дурова, фирменный голубой #2AABEE. Готово для Figma.",
+   "variants": [
+    {
+     "label": "iOS 26 Tahoe",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/telegram.png",
+     "wide": false
+    },
+    {
+     "label": "Telegram Lite",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/telegram-lite.png",
+     "wide": false
+    },
+    {
+     "label": "3D‑логотип",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram-3d.svg",
+     "wide": false
+    },
+    {
+     "label": "Премиум",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram-premium.svg",
+     "wide": false
+    },
+    {
+     "label": "Turbo",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram-turbo.svg",
+     "wide": false
+    },
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Telegram X (2019)",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram-x(2019).svg",
+     "wide": false
+    },
+    {
+     "label": "2013",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram(2013).svg",
+     "wide": false
+    },
+    {
+     "label": "2006",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/telegram(2006).svg",
+     "wide": false
+    }
+   ],
+   "categorySlug": "social",
+   "categoryName": "Мессенджеры и соцсети"
+  },
+  {
+   "name": "Walt",
+   "name_en": "Walt",
+   "tags": "walt уолт кошелёк кошелек wallet телеграм telegram криптовалюта криптокошелёк криптоактивы криптоплатформа ton defi p2p",
+   "url": "https://trace-logos.ru/logos/finance/walt/",
+   "dateAdded": "2026-10-07",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/walt.svg",
+   "pngUrl": null,
+   "ecosystem": null,
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Walt в SVG и PNG бесплатно. Иконка и горизонтальный вариант. Криптоплатформа внутри Telegram, ранее известная как «Кошелёк» (Wallet). Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/walt-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "pay",
+   "categoryName": "Платежи и карты"
+  },
+  {
+   "name": "Аномалия",
+   "name_en": "Anomalia",
+   "tags": "аномалия anomalia гребенюк бизнес клуб сообщество предприниматели телеграм",
+   "url": "https://trace-logos.ru/logos/education/anomalia/",
+   "dateAdded": "2026-08-10",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/anomalia.svg",
+   "pngUrl": null,
+   "ecosystem": null,
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип «Аномалия» в SVG бесплатно. Иконка и горизонтальный вариант. Платное бизнес‑сообщество предпринимателей Михаила Гребенюка в Telegram. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/anomalia-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "education",
+   "categoryName": "Образование"
+  },
+  {
+   "name": "Т-Бизнес Секреты",
+   "name_en": "T-Business Secrets",
+   "tags": "т бизнес секреты тбс bs tbs тинькофф бизнес секреты t business secrets telegram канал",
+   "url": "https://trace-logos.ru/logos/media/tbusinesssecrets/",
+   "dateAdded": "2026-07-28",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/t-business-secrets.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-business-secrets-channel.png",
+   "ecosystem": "tinkoff",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Т‑Бизнес Секреты (ТБС) в SVG бесплатно. Медиа Т‑Бизнеса про предпринимательство с сетью Telegram‑каналов. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/t-business-secrets-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Канал в Telegram",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-business-secrets-channel.png",
+     "wide": false
+    },
+    {
+     "label": "Бухгалтерия",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-business-secrets-accounting.png",
+     "wide": false
+    },
+    {
+     "label": "Для селлеров",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-business-secrets-sellers.png",
+     "wide": false
+    },
+    {
+     "label": "Идеи",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-business-secrets-ideas.png",
+     "wide": false
+    },
+    {
+     "label": "Айти",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-business-secrets-it.png",
+     "wide": false
+    },
+    {
+     "label": "Старт",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-business-start.png",
+     "wide": false
+    }
+   ],
+   "categorySlug": "music",
+   "categoryName": "Музыка и медиа"
+  },
+  {
+   "name": "Сбер",
+   "name_en": "Sber",
+   "tags": "сбер сбербанк sber sberbank sber.ru 185 лет юбилей юбилейный",
+   "url": "https://trace-logos.ru/logos/bank/sber/",
+   "dateAdded": "2026-05-19",
+   "dateModified": "2026-09-04",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber.svg",
+   "pngUrl": null,
+   "ecosystem": "sber",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Сбер в SVG и PNG бесплатно. Иконка, горизонтальные и юбилейная версия «185 лет». Крупнейший банк России, основан в 1841 году, зелёный #21A038. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank-full.svg",
+     "wide": true
+    },
+    {
+     "label": "185 лет",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber(185)-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Full EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank-en-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Альтернатива",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank-alternative-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2009",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank(2009)-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2009 Альтернативный",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank(2009)-alternative-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2009 Альтернативный EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank(2009)-alternative-en-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2009 Альтернативный 2",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank(2009)-alternative2-full.svg",
+     "wide": true
+    },
+    {
+     "label": "1991",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sberbank(1991)-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "bank",
+   "categoryName": "Банки"
+  },
+  {
+   "name": "Сбер Бизнес",
+   "name_en": "Sber Business",
+   "tags": "сбер бизнес sber business бизнес банк сбербанк сбербизнес",
+   "url": "https://trace-logos.ru/logos/bank/sberbusiness/",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/placeholder.svg",
+   "pngUrl": null,
+   "ecosystem": "sber",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Сбер Бизнес в SVG и PNG бесплатно. Иконка и горизонтальный вариант. Корпоративный банкинг Сбера, зелёный фирменный цвет. Готово для Figma.",
+   "comingSoon": true,
+   "categorySlug": "bank",
+   "categoryName": "Банки"
+  },
+  {
+   "name": "СберТех",
+   "name_en": "SberTech",
+   "tags": "сбертех sbertech сбербанк технологии sberbank technologies инфраструктурное по разработка",
+   "url": "https://trace-logos.ru/logos/b2b/sbertech/",
+   "dateAdded": "2026-07-28",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber-tech.svg",
+   "pngUrl": null,
+   "ecosystem": "sber",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип СберТех в SVG бесплатно. Иконка, полный и англоязычный варианты, а также версия 2009 года. Разработчик инфраструктурного ПО для Сбера. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber-tech-en-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2009",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber-tech-old(2009)-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2009 Альтернативный",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber-tech-old(2009)-alt-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "b2b",
+   "categoryName": "B2B и корпоративные сервисы"
+  },
+  {
+   "name": "Сбер ID",
+   "name_en": "Sber ID",
+   "tags": "сбер id sber id авторизация",
+   "url": "https://trace-logos.ru/logos/store/sberid/",
+   "dateAdded": "2026-07-18",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber-id-full.svg",
+   "pngUrl": null,
+   "ecosystem": "sber",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Сбер ID в SVG бесплатно. Официальный горизонтальный логотип. Единая авторизация экосистемы Сбера через один аккаунт. Готово для Figma.",
+   "categorySlug": "store",
+   "categoryName": "Сторы и подписки"
+  },
+  {
+   "name": "СберСпасибо",
+   "name_en": "SberSpasibo",
+   "tags": "сбер спасибо sberspasibo бонусы программа лояльности кэшбэк",
+   "url": "https://trace-logos.ru/logos/store/sberspasibo/",
+   "dateAdded": "2026-08-08",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber-spasibo-full.svg",
+   "pngUrl": null,
+   "ecosystem": "sber",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип СберСпасибо в SVG бесплатно. Горизонтальный логотип. Программа лояльности Сбера — бонусы за покупки у партнёров. Готово для Figma.",
+   "categorySlug": "store",
+   "categoryName": "Сторы и подписки"
+  },
+  {
+   "name": "SberPay",
+   "name_en": "SberPay",
+   "tags": "сберпей sberpay пей sber pay сбер pay бесконтактная оплата",
+   "url": "https://trace-logos.ru/logos/pay/sberpay/",
+   "dateAdded": "2026-08-08",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/sber-pay-full.svg",
+   "pngUrl": null,
+   "ecosystem": "sber",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип SberPay в SVG бесплатно. Горизонтальный логотип. Бесконтактная оплата картой Сбербанка со смартфона и умных часов. Готово для Figma.",
+   "categorySlug": "pay",
+   "categoryName": "Платежи и карты"
+  },
+  {
+   "name": "Shein",
+   "tags": "шейн shein одежда мода fast fashion онлайн магазин shein.com",
+   "url": "https://trace-logos.ru/logos/market/shein/",
+   "dateAdded": "2026-07-01",
+   "svgUrl": null,
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/shein.png",
+   "ecosystem": null,
+   "formats": [
+    "png"
+   ],
+   "desc": "Скачайте логотип Shein в PNG бесплатно. Иконка iOS 26 Tahoe. Самое скачиваемое шопинг‑приложение 2022 года, сверхбыстрая мода с тысячами новых товаров ежедневно. Готово для Figma.",
+   "categorySlug": "market",
+   "categoryName": "Маркетплейсы и ритейл"
+  },
+  {
+   "name": "Рив Гош",
+   "name_en": "Rive Gauche",
+   "tags": "рив гош ривгош rive gauche косметика парфюмерия",
+   "url": "https://trace-logos.ru/logos/market/rivegauche/",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/placeholder.svg",
+   "pngUrl": null,
+   "ecosystem": null,
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "comingSoon": true,
+   "categorySlug": "market",
+   "categoryName": "Маркетплейсы и ритейл"
+  },
+  {
+   "name": "App Store",
+   "tags": "app store эпл стор приложения apple ios iphone магазин скачать apple.com",
+   "url": "https://trace-logos.ru/logos/store/appstore/",
+   "dateAdded": "2026-05-21",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/apple-App Store.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/app-store.png",
+   "ecosystem": "apple",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип App Store в SVG бесплатно. Иконки iOS 26/27, тёмная и светлая темы. Открылся в 2008 году вместе с iPhone 3G. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Бейдж «Скачать»",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/app-store-card-full.svg",
+     "wide": true
+    },
+    {
+     "label": "iOS 26 Tahoe",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/app-store.png",
+     "wide": false
+    },
+    {
+     "label": "iOS 27 Golden Gate",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/27/color/app-store.png",
+     "wide": false
+    }
+   ],
+   "categorySlug": "store",
+   "categoryName": "Сторы и подписки"
+  },
+  {
+   "name": "CleanShot X",
+   "tags": "cleanshot x скриншот скрин захват экрана аннотация cleanshot.com",
+   "url": "https://trace-logos.ru/logos/design/cleanshotx/",
+   "dateAdded": "2026-05-22",
+   "svgUrl": null,
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/CleanShot X.png",
+   "ecosystem": null,
+   "formats": [
+    "png"
+   ],
+   "desc": "Скачайте логотип CleanShot X в PNG бесплатно. Иконка iOS 26 Tahoe. Захват экрана Mac с аннотациями и записью GIF, замена стандартного Screenshot. Готово для Figma.",
+   "categorySlug": "design",
+   "categoryName": "Дизайн"
+  },
+  {
+   "name": "Screen Studio",
+   "tags": "screen studio запись экрана видео контент screen.studio",
+   "url": "https://trace-logos.ru/logos/design/screenstudio/",
+   "dateAdded": "2026-05-22",
+   "svgUrl": null,
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/Screen Studio.png",
+   "ecosystem": null,
+   "formats": [
+    "png"
+   ],
+   "desc": "Скачайте логотип Screen Studio в PNG бесплатно. Иконка iOS 26 Tahoe. Запись экрана Mac с киноматографической анимацией курсора без монтажа. Готово для Figma.",
+   "categorySlug": "design",
+   "categoryName": "Дизайн"
+  },
+  {
+   "name": "Ozon",
+   "tags": "озон ozon.ru",
+   "url": "https://trace-logos.ru/logos/market/ozon/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/ozon.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/ozon-2026.png",
+   "ecosystem": "ozon",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Ozon в SVG и PNG бесплатно. Иконка и горизонтальный вариант. Один из крупнейших маркетплейсов России, синий #005BFF. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/ozon-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2021‑2024",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/ozon(2021-2024).svg",
+     "wide": false
+    },
+    {
+     "label": "iOS 26 Tahoe",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/ozon-2026.png",
+     "wide": false
+    },
+    {
+     "label": "Промо",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/ozon-promo.png",
+     "wide": false
+    }
+   ],
+   "categorySlug": "market",
+   "categoryName": "Маркетплейсы и ритейл"
+  },
+  {
+   "name": "Ozon ID",
+   "tags": "озон id ozon id авторизация айди",
+   "url": "https://trace-logos.ru/logos/store/ozonid/",
+   "dateAdded": "2026-07-28",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/ozon-id-full.svg",
+   "pngUrl": null,
+   "ecosystem": "ozon",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Ozon ID в SVG бесплатно. Официальный горизонтальный логотип. Единая авторизация экосистемы Ozon через один аккаунт. Готово для Figma.",
+   "categorySlug": "store",
+   "categoryName": "Сторы и подписки"
+  },
+  {
+   "name": "Пятёрочка",
+   "name_en": "Pyaterochka",
+   "tags": "пятерочка пятёрочка pyaterochka x5 х5 продукты магазин 5ka.ru",
+   "url": "https://trace-logos.ru/logos/market/pyaterochka/",
+   "dateAdded": "2026-06-30",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/pyaterochka.svg",
+   "pngUrl": null,
+   "ecosystem": [
+    "x5",
+    "artlebedev"
+   ],
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Пятёрочка в SVG бесплатно. Иконка и горизонтальный вариант. Более 22 000 магазинов у дома в группе X5 Group. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/pyaterochka-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2018",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/pyaterochka-old-2018-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "market",
+   "categoryName": "Маркетплейсы и ритейл"
+  },
+  {
+   "name": "Т-Банк",
+   "name_en": "T-Bank",
+   "tags": "тинькофф тинькоф тиньков тинек тб тбанк т-банк tbank tinkoff tinkov t-bank tbank.ru 20 лет тбанку юбилей юбилейная иконка",
+   "url": "https://trace-logos.ru/logos/bank/tbank/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/t-bank.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-bank.png",
+   "ecosystem": "tinkoff",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Т‑Банк (Тинькофф) в SVG и PNG бесплатно. Иконка, горизонтальные версии, а также юбилейная иконка «20 лет». Официальные цвета. Готово для Figma.",
+   "variants": [
+    {
+     "label": "PNG",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-bank.png",
+     "wide": false
+    },
+    {
+     "label": "PNG",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/t-bank-app.png",
+     "wide": false
+    },
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/t-bank-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Full EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/t-bank-full-en.svg",
+     "wide": true
+    },
+    {
+     "label": "Тинькофф (2024)",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/t-bank(2024).svg",
+     "wide": false
+    },
+    {
+     "label": "Тинькофф (2024)",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/t-bank(2024)-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Тинькофф (2025)",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/tinkoff(2025).svg",
+     "wide": false
+    },
+    {
+     "label": "20 лет",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/tbank-20years.svg",
+     "wide": false
+    }
+   ],
+   "categorySlug": "bank",
+   "categoryName": "Банки"
+  },
+  {
+   "name": "ВКонтакте",
+   "name_en": "VKontakte",
+   "tags": "вк vk вконтакте vkontakte vk.com",
+   "url": "https://trace-logos.ru/logos/social/vk/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-birthday-balloon.png",
+   "ecosystem": "vk",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип ВКонтакте в SVG и PNG бесплатно. Иконка и горизонтальная версия. Крупнейшая социальная сеть России, фирменный синий #0077FF. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2006",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk(2006)-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2012",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk(2012).svg",
+     "wide": false
+    },
+    {
+     "label": "2016",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk(2016).svg",
+     "wide": false
+    },
+    {
+     "label": "День рождения (шарики)",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-birthday-balloon.png",
+     "wide": false
+    },
+    {
+     "label": "8 Марта (букет)",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-womens-day-bouquet.png",
+     "wide": false
+    },
+    {
+     "label": "8 Марта (пионы)",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-spring-peony.png",
+     "wide": false
+    },
+    {
+     "label": "День влюблённых",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-valentines.png",
+     "wide": false
+    },
+    {
+     "label": "Новый год (созвездие)",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-new-year-stars.png",
+     "wide": false
+    },
+    {
+     "label": "Новый год (хром)",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-new-year-shine.png",
+     "wide": false
+    },
+    {
+     "label": "Весна (оттепель)",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-spring-thaw.png",
+     "wide": false
+    },
+    {
+     "label": "Лето (облако)",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-summer-cloud.png",
+     "wide": false
+    },
+    {
+     "label": "День программиста",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-programmers-day.png",
+     "wide": false
+    },
+    {
+     "label": "Хэллоуин",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-halloween.png",
+     "wide": false
+    },
+    {
+     "label": "Киберпанк",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-cyberpunk.png",
+     "wide": false
+    },
+    {
+     "label": "Леопард",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-leopard.png",
+     "wide": false
+    },
+    {
+     "label": "Пластилин",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/vk-alternative-plasticine.png",
+     "wide": false
+    },
+    {
+     "label": "Конь",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-horse.svg",
+     "wide": false
+    }
+   ],
+   "categorySlug": "social",
+   "categoryName": "Мессенджеры и соцсети"
+  },
+  {
+   "name": "ВК Дом",
+   "name_en": "VK Home",
+   "tags": "вк дом vk home дом соседи жкх умный дом vk.com",
+   "url": "https://trace-logos.ru/logos/assistant/vkhome/",
+   "dateAdded": "2026-05-22",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-home.svg",
+   "pngUrl": null,
+   "ecosystem": "vk",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип ВК Дом в SVG бесплатно. Иконка и вариант. Сервис VK для жильцов — чат с соседями, заявки в УК и оплата ЖКХ в одном месте. Готово.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-home-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "assistant",
+   "categoryName": "Ассистенты"
+  },
+  {
+   "name": "ВК Клипы",
+   "name_en": "VK Clips",
+   "tags": "вк клипы vk clips клипы видео vk.com",
+   "url": "https://trace-logos.ru/logos/social/vkclips/",
+   "dateAdded": "2026-05-21",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-clips.svg",
+   "pngUrl": null,
+   "ecosystem": "vk",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип ВК Клипы в SVG бесплатно. Иконка и вариант. Короткое вертикальное видео внутри VK, аналог TikTok и Reels. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-clips-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "social",
+   "categoryName": "Мессенджеры и соцсети"
+  },
+  {
+   "name": "VK ID",
+   "tags": "вк id vk id авторизация айди id.vk.com",
+   "url": "https://trace-logos.ru/logos/store/vkid/",
+   "dateAdded": "2026-05-23",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-id-full.svg",
+   "pngUrl": null,
+   "ecosystem": "vk",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип VK ID в SVG бесплатно. Официальный горизонтальный логотип. Единая авторизация экосистемы VK через один аккаунт ВКонтакте. Готово для Figma.",
+   "categorySlug": "store",
+   "categoryName": "Сторы и подписки"
+  },
+  {
+   "name": "VK Видео",
+   "name_en": "VK Video",
+   "tags": "вк видео vk video вквидео стриминг vkvideo.ru",
+   "url": "https://trace-logos.ru/logos/media/vkvideo/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-video.svg",
+   "pngUrl": null,
+   "ecosystem": "vk",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип VK Видео в SVG и PNG бесплатно. Иконка и горизонтальные версии на русском и английском. Главная видеоплатформа экосистемы VK. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-video-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Full EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-video-full-en.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "video",
+   "categoryName": "Видео и стриминг"
+  },
+  {
+   "name": "VK Билеты",
+   "name_en": "VK Tickets",
+   "tags": "вк билеты vk ticket билеты концерты события ивенты vk.com",
+   "url": "https://trace-logos.ru/logos/market/vkticket/",
+   "dateAdded": "2026-05-22",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-ticket.svg",
+   "pngUrl": null,
+   "ecosystem": "vk",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип VK Билеты в SVG бесплатно. Иконка и горизонтальный вариант. Билеты продаются прямо из афиш сообществ ВКонтакте. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/vk-ticket-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "market",
+   "categoryName": "Маркетплейсы и ритейл"
+  },
+  {
+   "name": "Max",
+   "tags": "макс вк мессенджер max.ru",
+   "url": "https://trace-logos.ru/logos/social/max/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/max.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/max.png",
+   "ecosystem": "vk",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Max в SVG и PNG бесплатно. Иконка и англоязычный вариант. Мессенджер VK, пришедший на смену VK Мессенджеру. Готово для Figma.",
+   "variants": [
+    {
+     "label": "iOS 26 Tahoe",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/max.png",
+     "wide": false
+    },
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/max-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Full EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/max-full-en.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "social",
+   "categoryName": "Мессенджеры и соцсети"
+  },
+  {
+   "name": "Максим",
+   "name_en": "Maxim",
+   "tags": "максим maxim такси taxi шадринск курган franchise франшиза maxim.taxi",
+   "url": "https://trace-logos.ru/logos/delivery/maximtaxi/",
+   "dateAdded": "2026-07-28",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/maxim-taxi.svg",
+   "pngUrl": null,
+   "ecosystem": null,
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Максим в SVG бесплатно. Иконка и горизонтальный вариант. Российский сервис заказа такси, вырос из Шадринска по франшизе. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/maxim-taxi-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "delivery",
+   "categoryName": "Доставка и такси"
+  },
+  {
+   "name": "Яндекс",
+   "name_en": "Yandex",
+   "tags": "яндекс yandex поиск search браузер yandex.ru",
+   "url": "https://trace-logos.ru/logos/search/yandex/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex.svg",
+   "pngUrl": null,
+   "ecosystem": "yandex",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Яндекс в SVG и PNG бесплатно. Иконка и горизонтальный вариант. Ведущий IT‑холдинг России, фирменный красный #FC3F1D. Готово для Figma.",
+   "variants": [
+    {
+     "label": "EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex-en.svg",
+     "wide": false
+    },
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Full EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex-en-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Yandex Alice",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex-alise.svg",
+     "wide": false
+    }
+   ],
+   "categorySlug": "search",
+   "categoryName": "Поиск и браузеры"
+  },
+  {
+   "name": "Яндекс Маркет",
+   "name_en": "Yandex Market",
+   "tags": "яндекс маркет yandex market беру беру.ру market market.yandex.ru",
+   "url": "https://trace-logos.ru/logos/market/yandexmarket/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex-market.svg",
+   "pngUrl": null,
+   "ecosystem": "yandex",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Яндекс Маркет в SVG и PNG бесплатно. Иконка и горизонтальный вариант. Маркетплейс от Яндекс, один из крупнейших в России. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex-market-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Для бизнеса",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/yandex-market-business-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "market",
+   "categoryName": "Маркетплейсы и ритейл"
+  },
+  {
+   "name": "Альфа Банк",
+   "name_en": "Alfa-Bank",
+   "tags": "альфа альфабанк альфа-банк alfa alfabank.ru",
+   "url": "https://trace-logos.ru/logos/bank/alfa/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/alfa-bank.svg",
+   "pngUrl": null,
+   "ecosystem": "alfa",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Альфа Банк в SVG и PNG бесплатно. Иконка и горизонтальные версии. Основан в 1990 году, фирменный красный #EF3124. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/alfa-bank-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Full EN",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/alfa-bank-full-en.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "bank",
+   "categoryName": "Банки"
+  },
+  {
+   "name": "Альфа-Бизнес",
+   "name_en": "Alfa-Business",
+   "tags": "альфа бизнес альфабизнес alfa business alfabank.ru",
+   "url": "https://trace-logos.ru/logos/bank/alfabusiness/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/alfa-bank-business.svg",
+   "pngUrl": null,
+   "ecosystem": "alfa",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Альфа‑Бизнес в SVG бесплатно. Направление Альфа‑Банка для предпринимателей: счета и эквайринг в фирменном красном стиле. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/alfa-bank-business-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "bank",
+   "categoryName": "Банки"
+  },
+  {
+   "name": "Google",
+   "tags": "гугл google поиск search браузер google.com",
+   "url": "https://trace-logos.ru/logos/search/google/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/google.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/google.png",
+   "ecosystem": "google",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Google в SVG и PNG бесплатно. Иконка G и горизонтальный вариант. Поисковик № 1 в мире, фирменная 4‑цветная G. Готово для Figma.",
+   "variants": [
+    {
+     "label": "iOS 26 Tahoe",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/google.png",
+     "wide": false
+    },
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/google-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "search",
+   "categoryName": "Поиск и браузеры"
+  },
+  {
+   "name": "Apple",
+   "tags": "apple эпл эппл mac iphone macos ios компания бренд apple.com",
+   "url": "https://trace-logos.ru/logos/tech/apple/",
+   "dateAdded": "2026-08-08",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/apple.svg",
+   "pngUrl": null,
+   "ecosystem": "apple",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Apple в SVG бесплатно. Иконка надкусанного яблока и горизонтальный wordmark. Официальные цвета. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/apple-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "tech",
+   "categoryName": "Техника и гаджеты"
+  },
+  {
+   "name": "МТС",
+   "name_en": "MTS",
+   "tags": "мтс mts связь оператор",
+   "url": "https://trace-logos.ru/logos/telecom/mts/",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/placeholder.svg",
+   "pngUrl": null,
+   "ecosystem": "mts",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "comingSoon": true,
+   "categorySlug": "telecom",
+   "categoryName": "Связь и интернет"
+  },
+  {
+   "name": "Google Maps",
+   "tags": "гугл карты гугл maps maps.google.com",
+   "url": "https://trace-logos.ru/logos/map/google/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/google-maps.svg",
+   "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/google-maps.png",
+   "ecosystem": "google",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Google Maps в SVG и PNG бесплатно. Иконка iOS 26 Tahoe. Первым добавил Street View и пробки в реальном времени в 2005 году. Готово для Figma.",
+   "variants": [
+    {
+     "label": "iOS 26 Tahoe",
+     "pngUrl": "https://trace-logos.ru/assets/logos/pngs/apple/26/color/google-maps.png",
+     "wide": false
+    },
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/google-maps-full.svg",
+     "wide": true
+    },
+    {
+     "label": "2025",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/google-maps(2025).svg",
+     "wide": false
+    }
+   ],
+   "categorySlug": "map",
+   "categoryName": "Карты и навигация"
+  },
+  {
+   "name": "Monopoly",
+   "name_en": "Monopoly",
+   "tags": "monopoly монополия настольная игра monopoly-game.com hasbro",
+   "url": "https://trace-logos.ru/logos/game/monopoly/",
+   "dateAdded": "2026-07-08",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/monopoly-game.svg",
+   "pngUrl": null,
+   "ecosystem": null,
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Monopoly в SVG бесплатно. Иконка и горизонтальные варианты. Классическая настольная игра Hasbro о недвижимости. Готово для Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/monopoly-game-full.svg",
+     "wide": true
+    },
+    {
+     "label": "Flatten Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/monopoly-game-flatten-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "games",
+   "categoryName": "Игры"
+  },
+  {
+   "name": "Монополия",
+   "name_en": "Monopoly",
+   "tags": "монополия monopoly недвижимость белогорск риэлтор агентство ипотека anmonopoly.ru",
+   "url": "https://trace-logos.ru/logos/developers/monopoly/",
+   "dateAdded": "2026-07-15",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/monopoly.svg",
+   "pngUrl": null,
+   "ecosystem": null,
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Монополия в SVG бесплатно. Иконка и полный вариант. Агентство недвижимости из Белогорска, на рынке около 19 лет. Готово для Figma.",
+   "desc_en": "Download the Monopoly (Real Estate Agency) logo in SVG for free. Realty agency from Belogorsk, Russia, on the market for about 19 years. Ready for Figma.",
+   "variants": [
+    {
+     "label": "Full",
+     "svgUrl": "https://trace-logos.ru/assets/logos/svgs/monopoly-full.svg",
+     "wide": true
+    }
+   ],
+   "categorySlug": "developers",
+   "categoryName": "Девелоперы и недвижимость"
+  },
+  {
+   "name": "Альфа Страхование",
+   "name_en": "AlfaInsurance",
+   "tags": "альфастрахование альфа alfa insurance alfastrah.ru",
+   "url": "https://trace-logos.ru/logos/insurance/alfa/",
+   "dateAdded": "2026-05-19",
+   "svgUrl": "https://trace-logos.ru/assets/logos/svgs/alfa-insurance.svg",
+   "pngUrl": null,
+   "ecosystem": "alfa",
+   "formats": [
+    "svg",
+    "png"
+   ],
+   "desc": "Скачайте логотип Альфа Страхование в SVG бесплатно. Страховая компания экосистемы Альфа‑Банка, входит в топ‑3 страховщиков России. Готово для Figma.",
+   "categorySlug": "insurance",
+   "categoryName": "Страхование"
+  }
+ ]
+}

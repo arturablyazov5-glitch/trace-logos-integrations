@@ -1,0 +1,25 @@
+{
+  "name": "trace-logos-integrations",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://trace-logos.ru/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturablyazov5-glitch/trace-logos-integrations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arturablyazov5-glitch/trace-logos-integrations/issues"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "postinstall": "npm --prefix extensions/vscode install --no-audit --no-fund",
+    "build": "npm run build -w @trace-logos-int/core && npm run build -w trace-logos && npm --prefix extensions/vscode run build",
+    "test": "npm test -w @trace-logos-int/core && npm test -w trace-logos && npm --prefix extensions/vscode test",
+    "typecheck": "npm run typecheck -w @trace-logos-int/core && npm run typecheck -w trace-logos && npm --prefix extensions/vscode run typecheck"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}

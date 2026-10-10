@@ -1,0 +1,8 @@
+# Whitelist: the VSIX contains only dist/, media/, README.md, CHANGELOG.md, LICENSE, package.json.
+**
+!dist/extension.js
+!media/icon.png
+!README.md
+!CHANGELOG.md
+!LICENSE
+!package.json
