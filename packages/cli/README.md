@@ -2,6 +2,8 @@
 
 Find and download brand logos (SVG and PNG) from the [Trace Logo's](https://trace-logos.ru/) catalog, from the terminal or from Node.js. Russian and international brands. **Zero dependencies**, Node.js 18.17+. The package contains no logos and no catalog: both are loaded from trace-logos.ru and cached on disk.
 
+Published on [npm as `trace-logos`](https://www.npmjs.com/package/trace-logos).
+
 ## Quick start
 
 ```sh
@@ -26,7 +28,7 @@ trace-logos search телеграм              # Russian, English, or the wron
 trace-logos search bank --category bank --limit 10 --json
 trace-logos get telegram                 # ./telegram.svg
 trace-logos get telegram --png --out ./assets/
-trace-logos get telegram --variant premium --out ./assets/tg-premium.svg
+trace-logos get telegram --variant "Премиум" --out ./assets/tg-premium.svg
 trace-logos get telegram --stdout > tg.svg
 trace-logos get bank/alfa                # category/slug when a bare slug is ambiguous
 trace-logos info sber                    # page, formats, variants, direct links
@@ -42,6 +44,12 @@ trace-logos open sber                    # opens the brand page in your browser 
 - Clipboard uses `pbcopy` / `clip` / `wl-copy`, `xclip` or `xsel`; if none is available the link is printed. The browser is opened with `open` / `rundll32` / `xdg-open` (no shell).
 
 ## Node.js API
+
+Install in your project before using the API:
+
+```sh
+npm install trace-logos
+```
 
 ```js
 import { TraceLogos } from 'trace-logos';      // CommonJS: require('trace-logos')

@@ -5,6 +5,8 @@ Internal core of the `trace-logos` package: loads the live catalog `https://trac
 with UTM labels and downloads assets from trace-logos.ru only. Zero runtime dependencies;
 `@trace-logos-int/core/node` adds `createFileCache(dir)`.
 
+This core is private and bundled into the published [npm package](https://www.npmjs.com/package/trace-logos) and extension ([VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=trace-logos.trace-logos), [Open VSX](https://open-vsx.org/extension/trace-logos/trace-logos)). For the public Node.js API, install `trace-logos`; do not install this internal workspace directly.
+
 ## File names
 
 `suggestFilename(logo, asset)` / `assetsOf(logo)[].filename` return `[a-z0-9-_.]` names, never a path:

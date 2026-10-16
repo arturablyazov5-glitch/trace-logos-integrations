@@ -6,7 +6,15 @@ The extension ships no logos and no copy of the catalog. It reads the public cat
 
 ## Installation
 
-Until the extension is published, install it from a `.vsix` file: build it from the [source repository](https://github.com/arturablyazov5-glitch/trace-logos-integrations) (`extensions/vscode`, `npm run package`), then in VS Code run **Extensions: Install from VSIX…** or `code --install-extension trace-logos-<version>.vsix`.
+Install [Trace Logos from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=trace-logos.trace-logos), or run:
+
+```sh
+code --install-extension trace-logos.trace-logos
+```
+
+The extension is also available on [Open VSX](https://open-vsx.org/extension/trace-logos/trace-logos).
+
+For a local build, run `npm install` at the repository root, then `npm run package` in `extensions/vscode`. Install the resulting `.vsix` with **Extensions: Install from VSIX…** or `code --install-extension trace-logos-<version>.vsix`.
 
 Requires VS Code 1.85 or newer.
 
@@ -70,5 +78,8 @@ Brand logos and trademarks available through the Trace Logo's catalog belong to 
 
 ## Links
 
+- npm CLI and Node.js API: https://www.npmjs.com/package/trace-logos
+- VS Code Marketplace: https://marketplace.visualstudio.com/items?itemName=trace-logos.trace-logos
+- Open VSX: https://open-vsx.org/extension/trace-logos/trace-logos
 - Logo catalog: https://trace-logos.ru/
 - Source code and issues: https://github.com/arturablyazov5-glitch/trace-logos-integrations (`extensions/vscode`)

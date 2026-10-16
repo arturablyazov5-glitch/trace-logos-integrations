@@ -2,13 +2,31 @@
 
 Integrations for the [Trace Logo's](https://trace-logos.ru/) logo catalog: an npm package (CLI + Node.js API) and a VS Code extension. They contain no logos and no copy of the catalog: everything is read at run time from `https://trace-logos.ru/logos.json` and cached, so new logos appear without new releases.
 
+## Install
+
+Node.js 18.17 or newer for the CLI and Node.js API:
+
+```sh
+npx trace-logos search telegram
+npm install -g trace-logos  # CLI
+npm install trace-logos     # Node.js API
+```
+
+For VS Code 1.85 or newer, install [Trace Logos from the Marketplace](https://marketplace.visualstudio.com/items?itemName=trace-logos.trace-logos), or run:
+
+```sh
+code --install-extension trace-logos.trace-logos
+```
+
+The extension is also published on [Open VSX](https://open-vsx.org/extension/trace-logos/trace-logos).
+
 ## Structure
 
 | Path | What | Published as |
 |---|---|---|
 | `packages/core` | Shared client: catalog loading and cache, search (RU/EN, keyboard layout), page links with UTM, safe asset download. Private, bundled into the others. | — |
-| `packages/cli` | `trace-logos` CLI and Node.js API ([README](packages/cli/README.md)) | npm `trace-logos` (not published yet) |
-| `extensions/vscode` | VS Code extension ([README](extensions/vscode/README.md), [publishing](extensions/vscode/PUBLISHING.md)) | `trace-logos.trace-logos` (not published yet) |
+| `packages/cli` | `trace-logos` CLI and Node.js API ([README](packages/cli/README.md)) | [npm: `trace-logos`](https://www.npmjs.com/package/trace-logos) |
+| `extensions/vscode` | VS Code extension ([README](extensions/vscode/README.md), [publishing](extensions/vscode/PUBLISHING.md)) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=trace-logos.trace-logos) · [Open VSX](https://open-vsx.org/extension/trace-logos/trace-logos) |
 
 `extensions/vscode` is deliberately not an npm workspace (its package name `trace-logos` would clash with the CLI); it has its own lockfile and bundles core from source. The root `postinstall` installs its dependencies.
 
