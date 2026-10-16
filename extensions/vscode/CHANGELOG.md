@@ -1,8 +1,10 @@
 # Changelog
 
-## Unreleased
+## 0.1.1 — 2026-10-16
 
 - Documentation: replace pre-publication installation instructions with Marketplace and Open VSX links; add the npm package link.
+
+- No extension functionality changes.
 
 ## 0.1.0
 

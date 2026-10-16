@@ -2,7 +2,7 @@
   "name": "trace-logos",
   "displayName": "Trace Logos",
   "description": "Search brand logos (SVG/PNG) from the Trace Logo's catalog (https://trace-logos.ru/) and insert links or download files right from the editor.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "trace-logos",
   "license": "MIT",
   "icon": "media/icon.png",
